@@ -1,4 +1,4 @@
-# Reflex-UI-Theme
+# Reflex-UI
 
 What is Reflex UI-
     Reflex UI is a behavior-driven browser extension designed to enhance user experience by detecting and responding to frustration in real time.
